@@ -1,0 +1,46 @@
+{
+  "kind": "singleType",
+  "collectionName": "details_pages",
+  "info": {
+    "singularName": "details-page",
+    "pluralName": "details-pages",
+    "displayName": "Product Details Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "addtocart": {
+      "type": "string"
+    },
+    "advantage1": {
+      "type": "string"
+    },
+    "advantage2": {
+      "type": "string"
+    },
+    "describtionTab": {
+      "type": "string"
+    },
+    "DescribtionRow1": {
+      "type": "string"
+    },
+    "DescribtionRow2": {
+      "type": "string"
+    },
+    "SimilarProductsHeader": {
+      "type": "string"
+    },
+    "BreadCrumbMainLink": {
+      "type": "string"
+    },
+    "deliveryfees": {
+      "type": "decimal"
+    },
+    "WebsiteCurrency": {
+      "type": "string"
+    }
+  }
+}

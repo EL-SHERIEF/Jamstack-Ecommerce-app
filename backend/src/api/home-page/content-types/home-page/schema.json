@@ -1,0 +1,112 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_pages",
+  "info": {
+    "singularName": "home-page",
+    "pluralName": "home-pages",
+    "displayName": "Home Page",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Hero_h1": {
+      "type": "string"
+    },
+    "Hero_p": {
+      "type": "string"
+    },
+    "stats_text_1": {
+      "type": "string",
+      "required": false,
+      "unique": false
+    },
+    "stats_text_2": {
+      "type": "string"
+    },
+    "stats_text_3": {
+      "type": "string"
+    },
+    "stats_text_4": {
+      "type": "string"
+    },
+    "stats_text_5": {
+      "type": "string"
+    },
+    "Button_1": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "Button_2": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "stats_img": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "background_video": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "videos",
+        "images"
+      ]
+    },
+    "stats_1": {
+      "type": "string"
+    },
+    "stats_2": {
+      "type": "string"
+    },
+    "stats_3": {
+      "type": "string"
+    },
+    "stats_4": {
+      "type": "string"
+    },
+    "stats_5": {
+      "type": "string"
+    },
+    "LOGO": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images"
+      ]
+    },
+    "header_ProductSlider_1": {
+      "type": "string"
+    },
+    "Signintext": {
+      "type": "string"
+    },
+    "signuptext": {
+      "type": "string"
+    },
+    "signtext": {
+      "type": "string"
+    },
+    "signimage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

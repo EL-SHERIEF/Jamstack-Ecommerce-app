@@ -29,6 +29,11 @@
   <h1 align="center">Designing / Developing Crossplatform Apps alone😔</h1>  
     <P>In six years, my experience journey has seen diverse projects that have woven stories, each teaching me something new from Creating creative websites and modern crossplatform apps to Branding and maping stunning e-presences that shows off the power of any business in an award-winning style (جنون العظمة).</P>
  <br><br>
+    <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/dadd_preview.png" height="60" alt="Project Dadd"  />
+    <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/hayat_preview.png" height="60" alt="Project Hayat"  />
+    <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/rawand_preview.png" height="60" alt="Project Rawand"  />
+    <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/wellmade_preview.png" height="60" alt="Project Well madi ui|ux"  />
+ <br><br>
      <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/clients.png" height="60" alt="My projects"  />
   <br><br>
   

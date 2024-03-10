@@ -13,9 +13,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EL-SHERIEF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&hide_border=true&bg_color=ffffff0d&border_radius=15&icon_color=702EE6&text_color=fffffff5&title_color=702EE6&custom_title=React🎶" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img align="center" height="150" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/18e35e99a01643f45bd5df10d193649806a24abc/img/snake.svg"  />
+</div>
+
+<div align="center">
+ 
+  <h6>Since 2018 (هه لسا نوب برضو)</h6>
+
+  <h1 align="center">Designing / Developing full projects alone🫵😔</h1>
+   <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/clients.png" height="50" alt="My projects"  />
+</div>
 
 ###
 

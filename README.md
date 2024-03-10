@@ -20,7 +20,7 @@
 
 <div align="center">
  
-  <h6>Since 2018 (هه لسا نوب برضو)</h6>
+  <h6>Since 2018 (احلي حاجة فيا صراحتي)</h6>
 
   <h1 align="center">Designing / Developing full projects alone🫵😔</h1>
    <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/clients.png" height="50" alt="My projects"  />

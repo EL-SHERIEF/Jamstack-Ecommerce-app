@@ -1,8 +1,8 @@
 <div align="center">
   <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/mylogo.png" height="50" alt="My logo"  />
-  <h6>FullStack Developer | Designer</h6>
+  <p>FullStack Developer | Designer</p>
 
-  <h2 align="center">Ahmed Elsherief</h2>
+  <h1 align="center">Ahmed Elsherief</h1>
 </div>
 
 

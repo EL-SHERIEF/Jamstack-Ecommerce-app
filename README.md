@@ -2,7 +2,7 @@
 <div align="center">
   <br><br>
 <a href="https://el-sherief.github.io/">
-  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/mylogo.png" height="50" alt="My logo"  />
+  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/bg.png" width="100%" alt="My logo"  />
 </a>
   
   <h6>FullStack Developer | Designer</h6>

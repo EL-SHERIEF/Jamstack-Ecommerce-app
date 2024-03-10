@@ -41,7 +41,7 @@
  <h1>
   <h6>About Me</h6>
   <h1 align="center">Self investing Is the key for me🥰<br><br></h1>  
-    <P>As a 19 yo dreamer i don't just wish to be greater someday but i invest in my career, my eduication and my everyday life for the older me to live in peace in a place he loves with people he wished for. (stop crying bro i am kidding)</P>
+    <P>As a 19 yo dreamer i don't just wish to be greater someday but i invest in my career, My Education and My everyday life for the older me to live in peace in a place he loves, with people he wished for and a nicer future. (stop crying bro i am kidding lol)</P>
  <br><br>
     <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/dadd_preview.png" height="190" alt="Project Dadd"  />
     <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/hayat_preview.png" height="190" alt="Project Hayat"  />

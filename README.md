@@ -6,7 +6,7 @@
 </div>
 
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EL-SHERIEF&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=ffffff0d&border_radius=15&icon_color=702EE6&text_color=fffffff5&title_color=702EE6" height="150" alt="stats graph"  />
@@ -15,15 +15,17 @@
 
 
 <div align="center">
+ 
   <img align="center" height="150" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/18e35e99a01643f45bd5df10d193649806a24abc/img/snake.svg"  />
+    <br><br> <br><br>
 </div>
 
 <div align="center">
  
   <h6>Since 2018 (احلي حاجة فيا صراحتي)</h6>
-
-  <h1 align="center">Designing / Developing full projects alone🫵😔</h1>
-   <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/clients.png" height="50" alt="My projects"  />
+  <h1 align="center">Designing / Developing full projects alone😔</h1>
+ <br><br>
+  <img  align="center" src="https://raw.githubusercontent.com/EL-SHERIEF/EL-SHERIEF.github.io/main/img/clients.png" height="50" alt="My projects"  />
 </div>
 
 ###
